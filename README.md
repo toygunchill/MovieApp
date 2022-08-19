@@ -1,0 +1,1 @@
+Hi, you can review my task that I completed during my internship from this repo. I developed the application requested in my task in MVC architecture using Swift language. In addition, I used 3rd party libraries such as Alamofire and Kingfisher. I hope you enjoyed watching. If you're curious about my journey in Swift, you can follow my github account.
