@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  MovieList
+
+  Created by Toygun Çil on 11.08.2022.
+  
+*/
+"notFound" = "Bulunamadı.";
+"releaseDate" = "Yayın Tarihi:";
+"voteCount" = "Oy Sayısı:";
+"popularityScore" = "Popülerlik:";
+"language" = "Dil:";
+"languageEndpoint" = "&language=tr-TR";
+"deleteFavorites" = "Favorilerden Çıkar";
+"addFavorites" = "Favorilere Ekle";
+"popMovieListTitle" = "Popüler Filmler";
+"detMovieTitle" = "Film Detayı";
+"searchMovieTitle" = "Arama";
+"favoritesMovieTitle" = "Favori Filmler";
+"originalTitle" = "  Orjinal İsim:";
+"originalLanguage" = "  Orjinal Dil:";
+"budget" = "  Bütçe:";
+"revenue" = "  Hasılat:";
+"runtime" = "  Gösterim:";
+"homePage" = "Anasayfa:";
+"genres" = "Tür:";
+"companies" = "Şirket:";
+"overview" = "Açıklama:";
+"name" = "İsim:";
+"birthPlace" = "Doğum Yeri:";
+"birthday" = "Doğum Günü:";
+"deathday" = "Ölüm Günü:";
+"nameNotFound" = "İsim Bulunamadı.";
+"birthPlaceNotFound" = "Doğum Yeri Bulunamadı.";
+"birthdayNotFound" = "Doğum Günü Bulunamadı.";
+"deathdayNotFound" = "Ölüm Günü Bulunamadı.";

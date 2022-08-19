@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "  Original Language:"; ObjectID = "0KK-jS-LRm"; */
+"0KK-jS-LRm.text" = "  Original Language:";
+
+/* Class = "UILabel"; text = "Homapage:"; ObjectID = "1dU-XL-adQ"; */
+"1dU-XL-adQ.text" = "Homapage:";
+
+/* Class = "UILabel"; text = "  Release Date:"; ObjectID = "2CN-eV-cJc"; */
+"2CN-eV-cJc.text" = "  Release Date:";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "9qB-9v-beW"; */
+"9qB-9v-beW.title" = "Search";
+
+/* Class = "UITabBarItem"; title = "MovieList"; ObjectID = "Cs7-W7-v3Q"; */
+"Cs7-W7-v3Q.title" = "MovieList";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "MCW-wL-VRP"; */
+"MCW-wL-VRP.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Companies:"; ObjectID = "cCA-S2-nJO"; */
+"cCA-S2-nJO.text" = "Companies:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ggc-1e-8jw"; */
+"ggc-1e-8jw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Revenue:"; ObjectID = "iPP-mJ-VHK"; */
+"iPP-mJ-VHK.text" = "  Revenue:";
+
+/* Class = "UILabel"; text = "  Runtime:"; ObjectID = "iYN-U7-4dc"; */
+"iYN-U7-4dc.text" = "  Runtime:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kNC-x2-HcS"; */
+"kNC-x2-HcS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Budget: "; ObjectID = "nhi-SH-E7h"; */
+"nhi-SH-E7h.text" = "  Budget: ";
+
+/* Class = "UILabel"; text = "Overview:"; ObjectID = "s2P-Vm-FP3"; */
+"s2P-Vm-FP3.text" = "Overview:";
+
+/* Class = "UILabel"; text = "  Original Title:"; ObjectID = "x3W-07-fbP"; */
+"x3W-07-fbP.text" = "  Original Title:";
+
+/* Class = "UILabel"; text = "Movie's Title"; ObjectID = "xc4-oK-OtW"; */
+"xc4-oK-OtW.text" = "Movie's Title";
+
+/* Class = "UILabel"; text = "Genres: "; ObjectID = "yRf-WN-wf0"; */
+"yRf-WN-wf0.text" = "Genres: ";

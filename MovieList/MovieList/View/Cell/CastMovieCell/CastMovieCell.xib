@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CastMovieCell" customModule="MovieList" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="450"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="300" height="450"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="6UV-mj-F5K">
+                        <rect key="frame" x="0.0" y="0.0" width="300" height="400"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="300" id="Huq-lV-C9c"/>
+                            <constraint firstAttribute="height" constant="400" id="tZy-7H-ahR"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ocd-L7-SFV">
+                        <rect key="frame" x="0.0" y="400" width="300" height="50"/>
+                        <color key="backgroundColor" systemColor="systemGray6Color"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="6UV-mj-F5K" secondAttribute="trailing" id="5CI-YW-q5w"/>
+                <constraint firstAttribute="trailing" secondItem="Ocd-L7-SFV" secondAttribute="trailing" id="5jB-tx-VDI"/>
+                <constraint firstAttribute="bottom" secondItem="Ocd-L7-SFV" secondAttribute="bottom" id="7QH-wu-C5h"/>
+                <constraint firstItem="6UV-mj-F5K" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="9TX-eh-Y8M"/>
+                <constraint firstItem="6UV-mj-F5K" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="Dox-m0-7qY"/>
+                <constraint firstItem="Ocd-L7-SFV" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="QJN-Mp-GMO"/>
+                <constraint firstItem="Ocd-L7-SFV" firstAttribute="top" secondItem="6UV-mj-F5K" secondAttribute="bottom" id="VHb-yR-HwZ"/>
+            </constraints>
+            <size key="customSize" width="299" height="396"/>
+            <connections>
+                <outlet property="castMovieImageView" destination="6UV-mj-F5K" id="OwQ-RV-egH"/>
+                <outlet property="castMovieName" destination="Ocd-L7-SFV" id="Gm1-gk-btJ"/>
+            </connections>
+            <point key="canvasLocation" x="317.39130434782612" y="218.97321428571428"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemGray6Color">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

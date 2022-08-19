@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  MovieList
+
+  Created by Toygun Çil on 11.08.2022.
+  
+*/
+"notFound" = "Not Found.";
+"releaseDate" = "Release:";
+"voteCount" = "Vote Count:";
+"popularityScore" = "Popularity:";
+"language" = "Language:";
+"languageEndpoint" = "&language=en-US";
+"deleteFavorites" = "Delete Favorites";
+"addFavorites" = "Add Favorites";
+"popMovieListTitle" = "Popular Movies";
+"detMovieTitle" = "Movie's Detail";
+"searchMovieTitle" = "Search";
+"favoritesMovieTitle" = "Favorite Movies";
+"originalTitle" = "  Original Title:";
+"originalLanguage" = "  Original Language:";
+"budget" = "  Budget:";
+"revenue" = "  Revenue:";
+"runtime" = "  Runtime:";
+"homePage" = "Homepage:";
+"genres" = "Genres:";
+"companies" = "Companies:";
+"overview" = "Overview:";
+"name" = "Name:";
+"birthPlace" = "Birth Place:";
+"birthday" = "Birthday:";
+"deathday" = "Deathday:";
+"nameNotFound" = "Name Not Found.";
+"birthPlaceNotFound" = "Birth Place Not Found.";
+"birthdayNotFound" = "Birthday Not Found.";
+"deathdayNotFound" = "Deathday Not Found.";
